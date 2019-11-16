@@ -20,11 +20,11 @@ for i in range(query):
 # import re
 
 # query = int(input().strip())
-# for i in range(q):
+# for i in range(query):
 #     string_ = input().strip()
     
 #     pattern = ".*h.*a.*c.*k.*e.*r.*r.*a.*n.*k.*"
-#     m = re.search(pattern, s)
+#     m = re.search(pattern, string_)
 #     if m is not None:
 #         print("YES")
 #     else:
